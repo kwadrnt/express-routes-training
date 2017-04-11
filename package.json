@@ -1,0 +1,24 @@
+{
+  "name": "express-routes-training",
+  "version": "1.0.0",
+  "description": "express routes practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwadrnt/express-routes-training.git"
+  },
+  "author": "Kevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwadrnt/express-routes-training/issues"
+  },
+  "homepage": "https://github.com/kwadrnt/express-routes-training#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
